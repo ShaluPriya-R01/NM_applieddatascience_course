@@ -62,7 +62,7 @@ Clone the repository to your local machine.
 Install the required libraries as mentioned in the prerequisites.
 Run the Jupyter Notebook containing the Python code.
 
-Data Overview:
+## Data Overview:
 The initial data overview section involves importing the dataset, checking for missing values, and performing data preprocessing. The dataset's structure and summary statistics are also displayed.
 
 Data Preprocessing:
@@ -72,7 +72,7 @@ Missing values are handled, especially for the 'total_vaccinations' column, whic
 Time-related features like day, month, week of the year, and day of the week are derived from the 'date' column.
 Missing values are filled using related columns or previous values from the same country.
 
-Data Analysis:
+## Data Analysis:
 
 Box plots are created to identify data distribution and potential outliers.
 A correlation matrix and heatmap are generated to visualize relationships between variables.
